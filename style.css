@@ -15,8 +15,6 @@ label {
   height: 80px;
 
   position: relative;
-
-  cursor: pointer;
 }
 label input {
   position: relative;
